@@ -1,0 +1,13 @@
+{
+    "name": "zerom/php-practice",
+    "autoload": {
+        "psr-4": {
+            "Staff\\": "staff/"
+        }
+    },
+    "authors": [{
+        "name": "Le Quoc Cuong",
+        "email": "lqcmailbox@gmail.com"
+    }],
+    "require": {}
+}
